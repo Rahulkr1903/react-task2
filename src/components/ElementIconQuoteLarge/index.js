@@ -1,0 +1,1 @@
+export { ElementIconQuoteLarge } from "./ElementIconQuoteLarge";

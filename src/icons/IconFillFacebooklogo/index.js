@@ -1,0 +1,1 @@
+export { IconFillFacebooklogo } from "./IconFillFacebooklogo";

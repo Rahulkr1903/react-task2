@@ -1,0 +1,1 @@
+export { ElementIconQuoteLargeWrapper } from "./ElementIconQuoteLargeWrapper";
